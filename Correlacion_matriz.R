@@ -1,5 +1,5 @@
 #Cargar el archivo, seleccionando los datos: numerico, texto, numerico
-setwd("/Users/berumen/Desktop/UAN/Clases/Posgrado/CBAP/2020/Análisis_visualización_datos_R/R_script/Graficas_correlacion")
+setwd("Ruta/de/trabajo")
 library(readxl)
 Cereales_2 <- read_excel("Cereales_2.xlsx")
 
