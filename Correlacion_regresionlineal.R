@@ -1,8 +1,8 @@
 #CORRELACION Y REGRESION
-setwd("/Users/berumen/Desktop/UAN/Clases/Posgrado/CBAP/2020/Análisis_visualización_datos_R/R_script/Graficas_correlacion")
+setwd("Ruta/de/trabajo")
 #IMPORTAR DATOS MEDIANTE------ "IMPORT DATASET"----DERECHA.... ARCHIVO EXCEL DATOS
 library(readxl)
-LIBRO1 <- read_excel("/Users/berumen/Desktop/UAN/Clases/Posgrado/CBAP/2020/Análisis_visualización_datos_R/R_script/ANOVA_regresion_correlacion/LIBRO1.xlsx")
+LIBRO1 <- read_excel("Ruta/donde/esta/libro/LIBRO1.xlsx")
 head(LIBRO1)
 
 #analisis de correlacion. dentro de ahi es "nombre de objeto $ columna para correlacion, objeto$columna a correlacionar
