@@ -1,6 +1,6 @@
 # Visualizacion_de_datos
 
-Matriz de correlación
-Gráfica de barras (barplot)
-Gráfica apiladas (stack barplot)
-Regresión lineal 
+1. Matriz de correlación
+2. Gráfica de barras (barplot)
+3. Gráfica apiladas (stack barplot)
+4. Regresión lineal 
