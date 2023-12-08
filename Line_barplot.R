@@ -1,5 +1,5 @@
 #Hacer gráficas de expresión
-setwd("/Users/berumen/Desktop/")
+setwd("Ruta/de/trabajo")
 
 library(readxl)
 library(dplyr)
