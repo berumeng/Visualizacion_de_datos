@@ -1,5 +1,5 @@
 ##Establecer la carpeta de trabajo
-setwd("/Users/berumen/Desktop/UAN/Clases/Posgrado/CBAP/2020/Análisis_visualización_datos_R/R_script/Graficas_correlacion")
+setwd("Ruta/de/trabajo")
 
 #Importar datos de excel (NO DEBE TENER ESPACIOS)
 Datos <- read.table("COVID_NAY_4.txt", header=TRUE)
