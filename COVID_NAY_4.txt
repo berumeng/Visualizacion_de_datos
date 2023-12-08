@@ -1,0 +1,10 @@
+Municipio	Casos	Acumulados
+Tepic	Activos	332
+Tepic	Defunciones	233
+Tepic	Recuperados	2270
+Bahia	Activos	64
+Bahia	Defunciones	62
+Bahia	Recuperados	454
+Santiago	Activos	48
+Santiago	Defunciones	57
+Santiago	Recuperados	302
